@@ -78,22 +78,28 @@
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
-      <url>
-      <loc>https://tetherform.com/blog/a-basic-guide-to-building-wallet-opening-sponsorship-packages-for</loc>
-      <lastmod>2024-11-08</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
+    <url>
+        <loc>https://tetherform.com/blog/a-basic-guide-to-building-wallet-opening-sponsorship-packages-for</loc>
+        <lastmod>2024-11-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
     </url>
-      <url>
-      <loc>https://tetherform.com/blog/the-complete-guide-to-creating-an-annual-engagement-survey-for-professional-associations</loc>
-      <lastmod>2024-11-08</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
+    <url>
+        <loc>https://tetherform.com/blog/the-complete-guide-to-creating-an-annual-engagement-survey-for-professional-associations</loc>
+        <lastmod>2024-11-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
     </url>
-      <url>
-      <loc>https://tetherform.com/blog/3-survey-questions-that-help-associations-secretly-identify-at-risk-members</loc>
-      <lastmod>2024-11-07</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
+    <url>
+        <loc>https://tetherform.com/blog/3-survey-questions-that-help-associations-secretly-identify-at-risk-members</loc>
+        <lastmod>2024-11-07</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://tetherform.com/blog/simple-guide-to-measuring-newsletter-success-professional-associations</loc>
+        <lastmod>2024-11-09</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
     </url>
 </urlset>
