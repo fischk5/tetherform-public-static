@@ -1,0 +1,28 @@
+User-agent: *
+Disallow: /
+
+# Whitelisted paths
+Allow: /
+Allow: /blog
+Allow: /blog/*
+Allow: /pricing
+Allow: /meeting-finder
+Allow: /ssr
+Allow: /register
+Allow: /robots.txt
+Allow: /sitemap.xml
+Allow: /plans
+Allow: /login
+Allow: /reset-password
+Allow: /forgot-password
+
+# Blacklisted paths
+Disallow: /meeting-finder/*
+Disallow: /form/*
+Disallow: /api/*
+Disallow: /f/*
+Disallow: /pr/*
+Disallow: /o/*
+
+# Sitemap location
+Sitemap: https://tetherform.com/sitemap.xml
