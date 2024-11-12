@@ -104,7 +104,19 @@
     </url>
     <url>
         <loc>https://tetherform.com/blog/7-essential-questions-for-your-associations-post-event-survey</loc>
-        <lastmod>2024-11-09</lastmod>
+        <lastmod>2024-11-12</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://tetherform.com/blog/finding-motivated-members-for-your-associations-committees</loc>
+        <lastmod>2024-11-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+        <url>
+        <loc>https://tetherform.com/blog/designing-an-effective-new-member-onboarding-process-90-day-guide</loc>
+        <lastmod>2024-11-12</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
