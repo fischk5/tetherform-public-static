@@ -114,7 +114,7 @@
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
-        <url>
+    <url>
         <loc>https://tetherform.com/blog/designing-an-effective-new-member-onboarding-process-90-day-guide</loc>
         <lastmod>2024-11-12</lastmod>
         <changefreq>monthly</changefreq>
@@ -129,6 +129,12 @@
     <url>
         <loc>https://tetherform.com/blog/7-things-associations-get-wrong-about-retaining-members</loc>
         <lastmod>2024-11-14</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://tetherform.com/blog/a-tactical-guide-to-brand-perception-surveys-template</loc>
+        <lastmod>2024-11-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
