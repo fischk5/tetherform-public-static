@@ -138,4 +138,10 @@
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
+    <url>
+        <loc>https://tetherform.com/blog/20-awesome-ideas-for-professional-association-sponsorship-benefits</loc>
+        <lastmod>2024-11-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
 </urlset>
