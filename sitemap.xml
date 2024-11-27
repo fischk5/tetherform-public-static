@@ -84,8 +84,7 @@
         <changefreq>monthly</changefreq>
         <priority>0.3</priority>
     </url>
-        </url>
-        <url>
+    <url>
         <loc>https://tetherform.com/compare/survey-monkey</loc>
         <lastmod>2024-11-23</lastmod>
         <changefreq>monthly</changefreq>
