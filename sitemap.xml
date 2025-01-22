@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://tetherform.com/blog/how-to-prepare-for-last-minute-speaker-cancellations</loc>
+        <loc>https://tetherform.com/blog/10-easy-ways-to-plan-a-hybrid-event-like-a-pro</loc>
+        <lastmod>2025-01-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://tetherform.com/blog/10-smart-ways-to-manage-your-event-budget</loc>
         <lastmod>2025-01-22</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://tetherform.com/blog/how-to-prepare-for-last-minute-speaker-cancellations</loc>
+        <lastmod>2025-01-21</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
